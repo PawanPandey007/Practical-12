@@ -43,7 +43,7 @@ body{
     font-size: 20px;
     height: 45px;
     line-height: 40px;
-    background-image:linear-gradient(to left, rgb(255, 20, 118) ,purple) ;
+    background-image:linear-gradient(to left, rgb(192, 255, 20) ,rgb(128, 0, 0)) ;
 }
 i{
     margin-right: 4px;
